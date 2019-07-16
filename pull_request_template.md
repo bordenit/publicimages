@@ -1,4 +1,4 @@
 ---
-reviewers: 'bordenit'
+labels: bug
 ---
 test, test, test
